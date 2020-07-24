@@ -1,2 +1,2 @@
-# Caro-Game-
+# Caro
 Caro Game 
